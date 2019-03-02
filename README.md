@@ -11,8 +11,6 @@ Markdown is a concert held annualy actually its a competition that tests skills 
 
 
 
-**Bold**
-
 Are you interested? 
 Send a Message and you will be surprised$$
 
@@ -23,11 +21,7 @@ Send a Message and you will be surprised$$
 
 You are free to send me Dm's of your covers, songs that you would like promoted or mabye you might want a cover of a song done....
 Lots More!!!
-
-
-
-
-## We'ere also marketing bands that may have sound in music especially during music Festivals In And outside the country
+We'ere also marketing bands that may have sound in music especially during music Festivals In And outside the country
 You are Marketable Everywhere in the world
 
 
