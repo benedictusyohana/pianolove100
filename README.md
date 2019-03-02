@@ -1,25 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Pianolove100
 
-You can use the [editor on GitHub](https://github.com/benedictusyohana/pianolove100/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a plattform prepared for guys interested in learning the piano and also guys that want to improve their skills on the piano.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We're ready when you are!!!
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a concert held annualy actually its a competition that tests skills with different persons and also picks the best skilled persons to participate in the jazz safaricom Festival.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -28,10 +16,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+###Let's keep Music real
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benedictusyohana/pianolove100/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You are free to send me Dm's of your covers, songs that you would like promoted or mabye you might want a cover of a song done....
+Lots More!!!
+We'ere also marketing bands that may have sound in music especially during music Festivals In And outside the country
+You are Marketable Everywhere in the world
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++254 773224730
+                                @Pianolove100
